@@ -6,6 +6,14 @@ To Develop a convolutional deep neural network for digit classification and to v
 
 ## Problem Statement and Dataset
 
+MNIST Handwritten Digit Classification Dataset is a dataset of 60,000 small square 28×28 pixel grayscale images of handwritten single digits between 0 and 9.
+
+The task is to classify a given image of a handwritten digit into one of 10 classes representing integer values from 0 to 9, inclusively.
+
+
+![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/20cf93f6-5cd0-47bf-9a2e-2ecbfa5bed51)
+
+
 ## Neural Network Model
 
 ![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/77f81e07-17d3-4733-8cd3-66fd422be28b)
@@ -26,7 +34,7 @@ Write your own steps
 ### Name: PRAVEEN S
 ### Register Number: 212222240078
 
-```
+```PY
 import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
@@ -150,15 +158,20 @@ Include your code here
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/aa7a0661-a35f-425f-96d3-2606fbef316d)
+
+
+![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/d4e16883-9bb7-43d2-aff0-5cd1c6050843)
+
 
 ### Classification Report
 
-Include Classification Report here
+![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/979555c5-9647-40a2-90ea-b976bfc08764)
+
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/ce97dcf0-eadc-4fbf-b6bb-29bb4f0fc5f4)
 
 ### New Sample Data Prediction
 
