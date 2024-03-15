@@ -16,7 +16,7 @@ The task is to classify a given image of a handwritten digit into one of 10 clas
 
 ## Neural Network Model
 
-![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/77f81e07-17d3-4733-8cd3-66fd422be28b)
+![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/14195f9b-cd0f-4959-9272-b2b32a5009b3)
 
 
 ## DESIGN STEPS
