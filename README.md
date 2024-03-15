@@ -22,12 +22,12 @@ The task is to classify a given image of a handwritten digit into one of 10 clas
 ## DESIGN STEPS
 
 ### STEP 1:
-Write your own steps
-
+Import tensorflow and preprocessing libraries
 ### STEP 2:
 
+Build a CNN model
 ### STEP 3:
-
+Compile and fit the model and then predict
 
 ## PROGRAM
 
@@ -152,8 +152,6 @@ print(x_single_prediction)
 ```
 
 
-Include your code here
-
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
@@ -175,7 +173,7 @@ Include your code here
 
 ### New Sample Data Prediction
 
-Include your sample input and output for your hand written images.
+![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/f0605a5d-576b-4ccb-898b-0d0037174cbc)
 
 ## RESULT
-Include your result here.
+Thus, a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully.
