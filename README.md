@@ -156,24 +156,24 @@ print(x_single_prediction)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/aa7a0661-a35f-425f-96d3-2606fbef316d)
+![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/0bdf224b-492b-4568-80cf-7674e637572f)
 
 
-![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/d4e16883-9bb7-43d2-aff0-5cd1c6050843)
+![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/8d74f85f-3c4f-4e3f-aa07-20bb52454f5e)
 
 
 ### Classification Report
 
-![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/979555c5-9647-40a2-90ea-b976bfc08764)
+![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/c9b4c2ff-5881-479d-b3c3-36308056328a)
 
 
 ### Confusion Matrix
 
-![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/ce97dcf0-eadc-4fbf-b6bb-29bb4f0fc5f4)
+![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/031b32ef-b76c-4308-b239-4afc7d1174f6)
 
 ### New Sample Data Prediction
 
-![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/f0605a5d-576b-4ccb-898b-0d0037174cbc)
+![image](https://github.com/Praveen0500/mnist-classification/assets/120218611/d189b46f-be4b-4c63-904e-8b23cc61c940)
 
 ## RESULT
 Thus, a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully.
